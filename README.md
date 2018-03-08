@@ -1,3 +1,3 @@
 # Pong
-HokeyPong Processing
+Pong Processing
 Bienvenido a mi juego de pong
