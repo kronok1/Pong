@@ -7,6 +7,13 @@
 		body {
 			margin: 0
 		}
+		body canvas {
+			dispay: block
+		}
+		@-moz-document url-prefix() {
+			html, body {overflow: hidden !important;}
+		}
+		element {overflow-y: scroll;}
 	</style>
 </head>
 <body>
